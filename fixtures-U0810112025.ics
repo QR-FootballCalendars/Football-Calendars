@@ -4,7 +4,7 @@ PRODID:-//QR-FootballCalendars//Quarry U8 Fixtures//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Quarry U8 Fixtures
-X-APPLE-CALENDAR-COLOR:#4E1629
+X-APPLE-CALENDAR-COLOR:#7F1734
 BEGIN:VEVENT
 UID:football-training-series1@example.com
 SUMMARY:QR U8 Football Training
