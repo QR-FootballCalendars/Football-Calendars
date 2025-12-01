@@ -20,24 +20,6 @@ EXDATE;TZID=Europe/London:20260401T170000
 EXDATE;TZID=Europe/London:20260408T170000
 END:VEVENT
 BEGIN:VEVENT
-UID:35b29b72-4107-41d2-8333-ace5709be512@quarry.org
-DTSTAMP:20251116T213204Z
-DTSTART;TZID=Europe/London:20251122T092000
-DTEND;TZID=Europe/London:20251122T112000
-SUMMARY:Wallingford & Crowmarsh FC U8 Ravens vs Quarry Rovers U8 Girls
-DESCRIPTION:Wallingford & Crowmarsh FC U8 Ravens vs Quarry Rovers U8 Girls\nVenue: WALLINGFORD SPORTS PARK\nKickoff: 10:00
-LOCATION:WALLINGFORD SPORTS PARK
-END:VEVENT
-BEGIN:VEVENT
-UID:df98d430-3f16-4b95-b5bb-37a732925957@quarry.org
-DTSTAMP:20251116T213204Z
-DTSTART;TZID=Europe/London:20251129T092000
-DTEND;TZID=Europe/London:20251129T112000
-SUMMARY:ASFA Oxfordshire U8 Greens Girls vs Quarry Rovers U8 Girls
-DESCRIPTION:ASFA Oxfordshire U8 Greens Girls vs Quarry Rovers U8 Girls\nVenue: ASFA Oxfordshire U8 Greens Girls\nKickoff: 10:00
-LOCATION:ASFA Oxfordshire U8 Greens Girls
-END:VEVENT
-BEGIN:VEVENT
 UID:20bf20ca-6278-4efe-b364-e1b8d4bb7876@quarry.org
 DTSTAMP:20251116T213204Z
 DTSTART;TZID=Europe/London:20251213T092000
@@ -55,6 +37,9 @@ SUMMARY:Quarry Rovers U8 Girls vs Cumnor Minors U8 Girl Pumas
 DESCRIPTION:Quarry Rovers U8 Girls vs Cumnor Minors U8 Girl Pumas\nVenue: QUARRY RECREATION GROUND\nKickoff: 10:00
 LOCATION:QUARRY RECREATION GROUND
 END:VEVENT
+lines
+dt_value
+tzid
 BEGIN:VEVENT
 UID:football-training-series2@example.com
 SUMMARY:QR U8 Football Training
@@ -65,4 +50,7 @@ LOCATION:Barton Bradley Recreation Ground, Barton Rd, Headington, Oxford OX3 9EW
 DESCRIPTION:Weekly football training session (Margaret Ground).
 EXDATE;TZID=Europe/London:20260527T170000
 END:VEVENT
+lines
+dt_value
+tzid
 END:VCALENDAR
