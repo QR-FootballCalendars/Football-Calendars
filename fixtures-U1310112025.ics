@@ -28,6 +28,9 @@ SUMMARY:Oxford Blackbirds U13 Rovers vs Quarry Rovers U13 Hammers
 DESCRIPTION:Oxford Blackbirds U13 Rovers vs Quarry Rovers U13 Hammers\nVenue: BLACKBIRD LEYS PARK #1\nKickoff: 10:00
 LOCATION:BLACKBIRD LEYS PARK #1
 END:VEVENT
+lines
+dt_value
+tzid
 BEGIN:VEVENT
 UID:football-training-series2@example.com
 SUMMARY:QR U13 Football Training
@@ -38,7 +41,4 @@ LOCATION:Barton Bradley Recreation Ground, Barton Rd, Headington, Oxford OX3 9EW
 DESCRIPTION:Weekly football training session (Margaret Ground).
 EXDATE;TZID=Europe/London:20260527T170000
 END:VEVENT
-lines
-dt_value
-tzid
 END:VCALENDAR
