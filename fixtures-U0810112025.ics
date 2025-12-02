@@ -12,7 +12,8 @@ DTSTART;TZID=Europe/London:20251119T170000
 DTEND;TZID=Europe/London:20251119T180000
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260408T170000Z
 LOCATION:Oxford United Youth & Community Department, Horspath Rd, Oxford OX4 2RR
-DESCRIPTION:Weekly football training session.
+DESCRIPTION:Weekly football training session (Horspath).
+EXDATE;TZID=Europe/London:20251217T170000
 EXDATE;TZID=Europe/London:20251224T170000
 EXDATE;TZID=Europe/London:20251231T170000
 EXDATE;TZID=Europe/London:20260218T170000
@@ -40,6 +41,9 @@ END:VEVENT
 lines
 dt_value
 tzid
+lines
+dt_value
+tzid
 BEGIN:VEVENT
 UID:football-training-series2@example.com
 SUMMARY:QR U8 Football Training
@@ -47,10 +51,7 @@ DTSTART;TZID=Europe/London:20260415T170000
 DTEND;TZID=Europe/London:20260415T180000
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260715T170000Z
 LOCATION:Barton Bradley Recreation Ground, Barton Rd, Headington, Oxford OX3 9EW
-DESCRIPTION:Weekly football training session (Margaret Ground).
+DESCRIPTION:Weekly football training session (Margaret Road Park).
 EXDATE;TZID=Europe/London:20260527T170000
 END:VEVENT
-lines
-dt_value
-tzid
 END:VCALENDAR
