@@ -6,15 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Quarry U8 Fixtures
 X-APPLE-CALENDAR-COLOR:#7F1734
 BEGIN:VEVENT
-UID:20bf20ca-6278-4efe-b364-e1b8d4bb7876@quarry.org
-DTSTAMP:20251116T213204Z
-DTSTART;TZID=Europe/London:20251213T092000
-DTEND;TZID=Europe/London:20251213T112000
-SUMMARY:Quarry Rovers U8 Girls vs Witney Vikings Youth U8 Hornets
-DESCRIPTION:Quarry Rovers U8 Girls vs Witney Vikings Youth U8 Hornets\nVenue: QUARRY RECREATION GROUND\nKickoff: 10:00
-LOCATION:QUARRY RECREATION GROUND
-END:VEVENT
-BEGIN:VEVENT
 UID:football-training-series1@quarry.org
 SUMMARY:QR U8 Football Training
 DTSTART;TZID=Europe/London:20260107T170000
@@ -25,67 +16,67 @@ DESCRIPTION:Weekly football training session (Horspath).
 EXDATE;TZID=Europe/London:20260218T170000
 EXDATE;TZID=Europe/London:20260401T170000
 EXDATE;TZID=Europe/London:20260408T170000
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Training reminder
+END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d8511af8-84d3-4a4c-a74f-29711b35f57c@quarry.org
-DTSTAMP:20251116T213204Z
+UID:09275c98-38cb-483b-8b7f-1941e9bdf92a@quarry.org
+DTSTAMP:20260109T225243Z
 DTSTART;TZID=Europe/London:20260110T092000
 DTEND;TZID=Europe/London:20260110T112000
-SUMMARY:Quarry Rovers U8 Girls vs Cumnor Minors U8 Girl Pumas
-DESCRIPTION:Quarry Rovers U8 Girls vs Cumnor Minors U8 Girl Pumas\nVenue: QUARRY RECREATION GROUND\nKickoff: 10:00
+SUMMARY:Quarry Rovers U8 Girls vs Cumnor Minors U8 Girl Pumas - KO 10:00
+DESCRIPTION:Quarry Rovers U8 Girls vs Cumnor Minors U8 Girl Pumas\\nVenue: QUARRY RECREATION GROUND\\nKickoff: 10:00
 LOCATION:QUARRY RECREATION GROUND
 END:VEVENT
 BEGIN:VEVENT
-UID:bfbe99a9-e65b-47a9-b87a-e23b6a724bad@quarry.org
-DTSTAMP:20260104T090304Z
+UID:f0106835-0134-4cb0-8a34-056e6e7b2455@quarry.org
+DTSTAMP:20260109T225243Z
 DTSTART;TZID=Europe/London:20260124T092000
 DTEND;TZID=Europe/London:20260124T112000
-SUMMARY:Summertown Stars AFC U8 Volcanoes vs Quarry Rovers U8 Girls
+SUMMARY:Summertown Stars AFC U8 Volcanoes vs Quarry Rovers U8 Girls - KO 10:00
 DESCRIPTION:Summertown Stars AFC U8 Volcanoes vs Quarry Rovers U8 Girls\\nVenue: FIVE MILE DRIVE\\nKickoff: 10:00
 LOCATION:FIVE MILE DRIVE
 END:VEVENT
-
 BEGIN:VEVENT
-UID:8ef6832d-10f9-493b-a817-dbda29284a66@quarry.org
-DTSTAMP:20260104T090304Z
+UID:9b0a573d-3787-4a57-8a6f-7a7b1ae82446@quarry.org
+DTSTAMP:20260109T225243Z
 DTSTART;TZID=Europe/London:20260131T092000
 DTEND;TZID=Europe/London:20260131T112000
-SUMMARY:Quarry Rovers U8 Girls vs Radley Youth U7 Girls
+SUMMARY:Quarry Rovers U8 Girls vs Radley Youth U7 Girls - KO 10:00
 DESCRIPTION:Quarry Rovers U8 Girls vs Radley Youth U7 Girls\\nVenue: QUARRY RECREATION GROUND\\nKickoff: 10:00
 LOCATION:QUARRY RECREATION GROUND
 END:VEVENT
-
 BEGIN:VEVENT
-UID:cf24ee87-16fb-460a-b21d-2e9b20792412@quarry.org
-DTSTAMP:20260104T090304Z
+UID:c394e59c-0bfd-4a36-9fb6-f355dc59744b@quarry.org
+DTSTAMP:20260109T225243Z
 DTSTART;TZID=Europe/London:20260207T092000
 DTEND;TZID=Europe/London:20260207T112000
-SUMMARY:Launton U8 Girls vs Quarry Rovers U8 Girls
+SUMMARY:Launton U8 Girls vs Quarry Rovers U8 Girls - KO 10:00
 DESCRIPTION:Launton U8 Girls vs Quarry Rovers U8 Girls\\nVenue: BICESTER GARRISON SPORTS GROUND\\nKickoff: 10:00
 LOCATION:BICESTER GARRISON SPORTS GROUND
 END:VEVENT
-
 BEGIN:VEVENT
-UID:6eddd5d8-087a-4dec-aa49-ba94ecb69849@quarry.org
-DTSTAMP:20260104T090304Z
+UID:53c4820b-5a53-4d94-94b0-6b39597bbfce@quarry.org
+DTSTAMP:20260109T225243Z
 DTSTART;TZID=Europe/London:20260307T092000
 DTEND;TZID=Europe/London:20260307T112000
-SUMMARY:Grove Challengers U8 Girls vs Quarry Rovers U8 Girls
+SUMMARY:Grove Challengers U8 Girls vs Quarry Rovers U8 Girls - KO 10:00
 DESCRIPTION:Grove Challengers U8 Girls vs Quarry Rovers U8 Girls\\nVenue: Grove Challengers U7 Girls\\nKickoff: 10:00
 LOCATION:Grove Challengers U7 Girls
 END:VEVENT
-
 BEGIN:VEVENT
-UID:51df39ec-e4c4-4175-a47b-47fa0998838c@quarry.org
-DTSTAMP:20260104T090304Z
+UID:89468a06-a6e0-4842-9d19-0e63cac0b634@quarry.org
+DTSTAMP:20260109T225243Z
 DTSTART;TZID=Europe/London:20260314T102000
 DTEND;TZID=Europe/London:20260314T122000
-SUMMARY:Quarry Rovers U8 Girls vs Abingdon Youth U8 Girls
+SUMMARY:Quarry Rovers U8 Girls vs Abingdon Youth U8 Girls - KO 11:00
 DESCRIPTION:Quarry Rovers U8 Girls vs Abingdon Youth U8 Girls\\nVenue: QUARRY RECREATION GROUND\\nKickoff: 11:00
 LOCATION:QUARRY RECREATION GROUND
 END:VEVENT
-
 BEGIN:VEVENT
 UID:football-training-series2@quarry.org
 SUMMARY:QR U8 Football Training
@@ -95,6 +86,11 @@ RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260715T170000Z
 LOCATION:Barton Bradley Recreation Ground, Barton Rd, Headington, Oxford OX3 9EW
 DESCRIPTION:Weekly football training session (Margaret Road Park).
 EXDATE;TZID=Europe/London:20260527T170000
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Training reminder
+END:VALARM
 END:VEVENT
 
 END:VCALENDAR
