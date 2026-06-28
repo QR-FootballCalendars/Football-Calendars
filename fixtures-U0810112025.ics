@@ -160,6 +160,7 @@ RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260715T170000Z
 LOCATION:Barton Bradley Recreation Ground, Barton Rd, Headington, Oxford OX3 9EW
 DESCRIPTION:Weekly football training session (Margaret Road Park).
 EXDATE;TZID=Europe/London:20260527T170000
+EXDATE;TZID=Europe/London:20260701T170000
 BEGIN:VALARM
 TRIGGER:-PT1H
 ACTION:DISPLAY
@@ -226,13 +227,28 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+UID:football-training-series2@quarry.org
+RECURRENCE-ID;TZID=Europe/London:20260701T170000
+SUMMARY:QR U8 Football Training - Special Training
+DTSTART;TZID=Europe/London:20260702T170000
+DTEND;TZID=Europe/London:20260702T180000
+LOCATION:Margaret Road Park
+DESCRIPTION:Rescheduled football training session (moved from Wed 01 Jul).
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Training reminder
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 UID:football-tournament-3@quarry.org
 DTSTAMP:20260503T215025Z
 DTSTART;TZID=Europe/London:20260705T120000
 DTEND;TZID=Europe/London:20260705T170000
 SUMMARY:Grove Under 8s 6-aside Tournament
-LOCATION:Grove
-DESCRIPTION:Grove 6 a side tournament
+LOCATION:OX12 9YH
+DESCRIPTION:Grove 6 a side tournament.  First game kicks off at 1:30PM.  Finals at 5:15PM.
 BEGIN:VALARM
 TRIGGER:-PT1H
 ACTION:DISPLAY
