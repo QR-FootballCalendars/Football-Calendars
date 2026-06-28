@@ -157,7 +157,7 @@ SUMMARY:QR U8 Football Training
 DTSTART;TZID=Europe/London:20260415T170000
 DTEND;TZID=Europe/London:20260415T180000
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20260715T170000Z
-LOCATION:Barton Bradley Recreation Ground, Barton Rd, Headington, Oxford OX3 9EW
+LOCATION:Margaret Road, Headington, Oxford OX3 8NQ
 DESCRIPTION:Weekly football training session (Margaret Road Park).
 EXDATE;TZID=Europe/London:20260527T170000
 EXDATE;TZID=Europe/London:20260701T170000
