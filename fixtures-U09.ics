@@ -34,7 +34,6 @@ ACTION:DISPLAY
 DESCRIPTION:Match reminder
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:dbaf44f7-19f2-402e-9a17-b3f472624d21@quarry.org
 DTSTAMP:20260908T210326Z
@@ -49,14 +48,13 @@ ACTION:DISPLAY
 DESCRIPTION:Match reminder
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:2d002a20-efdc-400f-aaac-fab7ec2e290c@quarry.org
-DTSTAMP:20260908T210326Z
-DTSTART;TZID=Europe/London:20260919T092000
-DTEND;TZID=Europe/London:20260919T112000
-SUMMARY:QR U9 Home KO 10:00 Quarry Rovers U9 Girls vs Kidlington Youth Girls U9 Jaguars
-DESCRIPTION:Quarry Rovers U9 Girls vs Kidlington Youth Girls U9 Jaguars\nVenue: QUARRY RECREATION GROUND\nKickoff: 10:00
+DTSTAMP:20260913T204733Z
+DTSTART;TZID=Europe/London:20260919T102000
+DTEND;TZID=Europe/London:20260919T122000
+SUMMARY:QR U9 Home KO 11:00 Quarry Rovers U9 Girls vs Kidlington Youth Girls U9 Jaguars
+DESCRIPTION:Quarry Rovers U9 Girls vs Kidlington Youth Girls U9 Jaguars\nVenue: QUARRY RECREATION GROUND\nKickoff: 11:00
 LOCATION:QUARRY RECREATION GROUND
 BEGIN:VALARM
 TRIGGER:-PT1H
@@ -79,7 +77,6 @@ ACTION:DISPLAY
 DESCRIPTION:Match reminder
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:football-training-series2@quarry.org
 SUMMARY:QR U9 Training
@@ -100,11 +97,11 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:5eb2f29a-da5f-48e0-894d-9dd87395bdb6@quarry.org
-DTSTAMP:20260908T210326Z
+DTSTAMP:20260913T204733Z
 DTSTART;TZID=Europe/London:20261010T092000
 DTEND;TZID=Europe/London:20261010T112000
-SUMMARY:QR U9 Home KO 10:00 Quarry Rovers U9 Girls vs ASFA Oxfordshire U9 Performance 'Maveric
-DESCRIPTION:Quarry Rovers U9 Girls vs ASFA Oxfordshire U9 Performance 'Maveric\nVenue: QUARRY RECREATION GROUND\nKickoff: 10:00
+SUMMARY:QR U9 Home KO 10:00 Quarry Rovers U9 Girls vs ASFA U9 Performance 'Mavericks'
+DESCRIPTION:Quarry Rovers U9 Girls vs ASFA U9 Performance 'Mavericks'\nVenue: QUARRY RECREATION GROUND\nKickoff: 10:00
 LOCATION:QUARRY RECREATION GROUND
 BEGIN:VALARM
 TRIGGER:-PT1H
@@ -127,7 +124,6 @@ ACTION:DISPLAY
 DESCRIPTION:Match reminder
 END:VALARM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:football-training-series3@quarry.org
 SUMMARY:QR U9 Training
